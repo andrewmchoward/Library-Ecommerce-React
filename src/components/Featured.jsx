@@ -6,7 +6,7 @@ const Featured = () => {
     return (
 <section id="features">
     <div className="container">
-        <div className="row">
+        <div className="row row__column">
             <h2 className="section__title">
                 Featured <span className="purple">Books</span>
             </h2>
